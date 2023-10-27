@@ -22,4 +22,7 @@
 
 There will be conflicts between eslint and predictor，resolvent：
 
-- add eslint-config-prettier eslint-plugin-prettier -D
+- add eslint-config-prettier(Close rules in eslint that conflict with prettier) eslint-plugin-prettier(The ability to allow eslint to format code with prettier
+  ) -D
+
+see: https://cloud.tencent.com/developer/article/2346141
