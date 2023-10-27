@@ -26,3 +26,13 @@ There will be conflicts between eslint and predictor，resolvent：
   ) -D
 
 see: https://cloud.tencent.com/developer/article/2346141
+
+##### use husky
+
+- install husky
+- add preper in package.json file
+
+##### use lint-stage
+
+- install lint-stage
+- add lint-stage in package.json file
